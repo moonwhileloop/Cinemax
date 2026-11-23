@@ -35,7 +35,7 @@ import model.Utente;
 public class RepoUtenti {
 
     private final List<Utente> utenti;
-    private static final String FILE_UTENTI = "Cinemax/data/utenti.csv";
+    private static final String FILE_UTENTI = "data/utenti.csv";
 
     private static final DateTimeFormatter FORMATO_DATA =
             DateTimeFormatter.ofPattern("dd/MM/uuuu")
