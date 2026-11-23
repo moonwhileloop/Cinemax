@@ -1,0 +1,8 @@
+nome;cognome;email;username;password;dataNascita;domicilio;ruolo
+Anna;Bianchi;anna@email.it;abianchi;ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f;20/05/1998;Varese;CLIENTE
+Luca;Verdi;luca.verdi@email.it;lverdi;0490537906e872405d9ddfd76f58676fe267bb8655f6b097011e9931963346d9;12/08/1996;Como;CLIENTE
+Giulia;Neri;giulia.neri@email.it;gneri;6ae18f5442e4a04220c72227f73079ceb470095a448bbc4030d99eecab059be5;15/04/1997;Como;CLIENTE
+Marco;Rossi;it@cinemax.it;mrossi;adb30c1ebd793a5e21d212e15a76062f7798135d92227bd8ad55364857eec443;01/01/1990;Como;IT
+Sofia;Colombo;sofia.colombo@email.it;scolombo;d77d42cce28dec3f03ea0af1ff98a7dc7cb75dc0fabcd59390d96b25a0916d31;23/09/2000;Milano;CLIENTE
+Matteo;Galli;matteo.galli@email.it;mgalli;39008d36ac1f8b1235c96b8993c6faead2df3186e531fb8145cf0466ef56dee1;14/06/1999;Como;CLIENTE
+Martina;Molteni;martina@mail.it;mmolteni;893729e2f14ffb2fbc0db63d41163710b5a34c8b49912805297ccb535444cdab;14/01/1996;cantù;CLIENTE
