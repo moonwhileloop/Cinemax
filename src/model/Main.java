@@ -137,7 +137,11 @@ public class Main {
                     System.out.println("Domicilio:");
                     String domicilio = scanner.nextLine();
 
-                    System.out.println("Password:");
+                    System.out.println("Password: \n(La password deve rispettare i seguenti requisiti:" +
+                            "\n -minimo 8 caratteri;" +
+                            "\n -almeno una lettera maiuscola;" +
+                            "\n -almeno un numero;" +
+                            "\n -almeno un carattere speciale.)");
                     String password3 = scanner.nextLine();
 
                     Utente nuovoUtente = new Utente(
